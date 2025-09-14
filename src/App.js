@@ -254,10 +254,10 @@ export default function App() {
             </p>
             <div className="mt-4">
               <a
-                href="#"
+                href="https://weather-app-orcin-eight-41.vercel.app/"
                 className="text-sm px-3 py-2 ring-1 ring-gray-700 rounded"
               >
-                Demo
+                Live
               </a>
               <a
                 href="https://github.com/loveabhishek"
