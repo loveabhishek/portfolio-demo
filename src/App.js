@@ -248,9 +248,7 @@ export default function App() {
           <article className="p-6 rounded-2xl bg-gray-900/60 border border-gray-800">
             <h4 className="font-semibold text-white">Weather Report App</h4>
             <p className="mt-2 text-gray-400">
-              Responsive web app fetching live weather data, with hourly and
-              7-day forecasts, location search, and favorites caching. (Tech:
-              React, OpenWeatherMap API, TailwindCSS)
+              Interactive weather application with geolocation API, dynamic UI updates, and CSS animations. (Tech: JavaScript ES6+, CSS3, HTML5)
             </p>
             <div className="mt-4">
               <a
